@@ -1,4 +1,4 @@
-# Calculator-App
+# Calculator App
 
 # Link https://drive.google.com/file/d/1ihD9z2aMlBOFZOfqH-SXp6vciFVO96r4/view?usp=sharing
 
